@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:vegetables/cabbage",
+    "#forge:crops/cabbage",
+    "#forge:vegetables/chinese_cabbage",
+    "#forge:crops/chinese_cabbage"
+  ]
+}

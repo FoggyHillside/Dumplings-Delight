@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dumplings_delight:greenonion_crate"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:greenonion",
+    "count": 9
+  }
+}

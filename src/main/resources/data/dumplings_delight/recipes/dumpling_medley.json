@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "dumplings_delight:mid_food_level_dumpling"
+    },
+    {
+      "tag": "dumplings_delight:mid_food_level_dumpling"
+    },
+    {
+      "tag": "dumplings_delight:mid_food_level_dumpling"
+    },
+    {
+      "tag": "dumplings_delight:high_food_level_dumpling"
+    },
+    {
+      "item": "dumplings_delight:vinegar"
+    },
+    {
+      "tag": "dumplings_delight:high_food_level_dumpling"
+    },
+    {
+      "tag": "dumplings_delight:low_food_level_dumpling"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "dumplings_delight:low_food_level_dumpling"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:dumpling_medley"
+  }
+}

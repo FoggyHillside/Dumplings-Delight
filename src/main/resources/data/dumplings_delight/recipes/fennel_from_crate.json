@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dumplings_delight:fennel_crate"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:fennel",
+    "count": 9
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "farmersdelight:block/crop_cross",
+  "textures": {
+    "cross": "dumplings_delight:block/chinese_cabbages_stage2"
+  }
+}

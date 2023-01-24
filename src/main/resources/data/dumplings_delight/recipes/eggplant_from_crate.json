@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dumplings_delight:eggplant_crate"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:eggplant",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dumplings_delight:rabbit_meat_boiled_dumpling",
+    "dumplings_delight:salmon_boiled_dumpling",
+    "dumplings_delight:pufferfish_boiled_dumpling",
+    "dumplings_delight:dandelion_leaf_boiled_dumpling",
+    "dumplings_delight:garlic_chive_egg_boiled_dumpling"
+  ]
+}

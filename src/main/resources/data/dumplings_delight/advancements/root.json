@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "dumplings_delight:pork_cabbage_boiled_dumpling"
+    },
+    "title": {
+      "translate": "dumplings_delight.advancement.root"
+    },
+    "description": {
+      "translate": "dumplings_delight.advancement.root.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/block/stripped_oak_log.png"
+  },
+  "criteria": {
+    "root": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "root"
+    ]
+  ]
+}

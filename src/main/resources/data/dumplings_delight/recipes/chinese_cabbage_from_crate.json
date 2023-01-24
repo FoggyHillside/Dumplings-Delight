@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dumplings_delight:chinese_cabbage_crate"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:chinese_cabbage",
+    "count": 9
+  }
+}

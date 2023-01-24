@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    [
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "tag": "forge:raw_chicken"
+      }
+    ],
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "tag": "dumplings_delight:greenonion"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:chicken_mushroom_boiled_dumpling",
+    "count": 2
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

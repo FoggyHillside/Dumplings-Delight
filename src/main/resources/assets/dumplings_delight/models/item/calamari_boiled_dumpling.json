@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dumplings_delight:items/calamari_boiled_dumpling"
+  }
+}

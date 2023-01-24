@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dumplings_delight:garlic_chive_crate"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:garlic_chive",
+    "count": 9
+  }
+}

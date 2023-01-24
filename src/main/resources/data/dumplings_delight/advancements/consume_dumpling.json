@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "dumplings_delight:pork_cabbage_boiled_dumpling"
+    },
+    "title": {
+      "translate": "dumplings_delight.advancement.consume_dumpling"
+    },
+    "description": {
+      "translate": "dumplings_delight.advancement.consume_dumpling.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dumplings_delight:root",
+  "criteria": {
+    "dumpling": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "tag": "dumplings_delight:dumpling"
+          }
+        }
+      }
+    },
+  "requirements": [
+    [
+      "dumpling"
+    ]
+  ]
+}

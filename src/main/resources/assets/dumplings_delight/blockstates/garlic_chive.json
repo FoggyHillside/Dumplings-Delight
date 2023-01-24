@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "dumplings_delight:block/garlic_chive_stage0"
+    },
+    "age=1": {
+      "model": "dumplings_delight:block/garlic_chive_stage0"
+    },
+    "age=2": {
+      "model": "dumplings_delight:block/garlic_chive_stage1"
+    },
+    "age=3": {
+      "model": "dumplings_delight:block/garlic_chive_stage1"
+    },
+    "age=4": {
+      "model": "dumplings_delight:block/garlic_chive_stage1"
+    },
+    "age=5": {
+      "model": "dumplings_delight:block/garlic_chive_stage2"
+    },
+    "age=6": {
+      "model": "dumplings_delight:block/garlic_chive_stage2"
+    },
+    "age=7": {
+      "model": "dumplings_delight:block/garlic_chive_stage3"
+    }
+  }
+}

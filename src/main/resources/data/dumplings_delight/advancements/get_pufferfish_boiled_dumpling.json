@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "dumplings_delight:pufferfish_boiled_dumpling"
+    },
+    "title": {
+      "translate": "dumplings_delight.advancement.get_pufferfish_boiled_dumpling"
+    },
+    "description": {
+      "translate": "dumplings_delight.advancement.get_pufferfish_boiled_dumpling.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "dumplings_delight:consume_dandelion_leaf_boiled_dumpling",
+  "criteria": {
+    "pufferfish_boiled_dumpling": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "dumplings_delight:pufferfish_boiled_dumpling"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "pufferfish_boiled_dumpling"
+    ]
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "entries": [
+    "dumplings_delight:add_calamari",
+    "dumplings_delight:add_loot_village_plains_house",
+    "dumplings_delight:add_loot_village_taiga_house",
+    "dumplings_delight:add_loot_village_snowy_house",
+    "dumplings_delight:add_loot_shipwreck_supply",
+    "dumplings_delight:add_loot_simple_dungeon",
+    "dumplings_delight:add_loot_pillager_outpost",
+    "dumplings_delight:add_loot_abandoned_mineshaft"
+  ]
+}

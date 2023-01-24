@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    {
+      "item": "minecraft:rabbit"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    },
+    {
+      "tag": "dumplings_delight:greenonion"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:rabbit_meat_boiled_dumpling",
+    "count": 2
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

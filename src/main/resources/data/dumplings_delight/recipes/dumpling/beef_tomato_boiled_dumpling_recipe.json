@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    {
+      "tag": "dumplings_delight:greenonion"
+    },
+    [
+      {
+        "item": "minecraft:beef"
+      },
+      {
+        "tag": "forge:raw_beef"
+      }
+    ],
+    {
+      "tag": "dumplings_delight:tomato"
+    }
+  ],
+  "result": {
+    "item": "dumplings_delight:beef_tomato_boiled_dumpling",
+    "count": 2
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,124 @@
+{
+  "variants": {
+    "facing=north,servings=0": {
+      "model": "dumplings_delight:block/dumpling_medley_leftover"
+    },
+    "facing=south,servings=0": {
+      "model": "dumplings_delight:block/dumpling_medley_leftover",
+      "y": 180
+    },
+    "facing=west,servings=0": {
+      "model": "dumplings_delight:block/dumpling_medley_leftover",
+      "y": 270
+    },
+    "facing=east,servings=0": {
+      "model": "dumplings_delight:block/dumpling_medley_leftover",
+      "y": 90
+    },
+    "facing=north,servings=1": {
+      "model": "dumplings_delight:block/dumpling_medley_stage1"
+    },
+    "facing=south,servings=1": {
+      "model": "dumplings_delight:block/dumpling_medley_stage1",
+      "y": 180
+    },
+    "facing=west,servings=1": {
+      "model": "dumplings_delight:block/dumpling_medley_stage1",
+      "y": 270
+    },
+    "facing=east,servings=1": {
+      "model": "dumplings_delight:block/dumpling_medley_stage1",
+      "y": 90
+    },
+    "facing=north,servings=2": {
+      "model": "dumplings_delight:block/dumpling_medley_stage2"
+    },
+    "facing=south,servings=2": {
+      "model": "dumplings_delight:block/dumpling_medley_stage2",
+      "y": 180
+    },
+    "facing=west,servings=2": {
+      "model": "dumplings_delight:block/dumpling_medley_stage2",
+      "y": 270
+    },
+    "facing=east,servings=2": {
+      "model": "dumplings_delight:block/dumpling_medley_stage2",
+      "y": 90
+    },
+    "facing=north,servings=3": {
+      "model": "dumplings_delight:block/dumpling_medley_stage3"
+    },
+    "facing=south,servings=3": {
+      "model": "dumplings_delight:block/dumpling_medley_stage3",
+      "y": 180
+    },
+    "facing=west,servings=3": {
+      "model": "dumplings_delight:block/dumpling_medley_stage3",
+      "y": 270
+    },
+    "facing=east,servings=3": {
+      "model": "dumplings_delight:block/dumpling_medley_stage3",
+      "y": 90
+    },
+    "facing=north,servings=4": {
+      "model": "dumplings_delight:block/dumpling_medley_stage4"
+    },
+    "facing=south,servings=4": {
+      "model": "dumplings_delight:block/dumpling_medley_stage4",
+      "y": 180
+    },
+    "facing=west,servings=4": {
+      "model": "dumplings_delight:block/dumpling_medley_stage4",
+      "y": 270
+    },
+    "facing=east,servings=4": {
+      "model": "dumplings_delight:block/dumpling_medley_stage4",
+      "y": 90
+    },
+    "facing=north,servings=5": {
+      "model": "dumplings_delight:block/dumpling_medley_stage5"
+    },
+    "facing=south,servings=5": {
+      "model": "dumplings_delight:block/dumpling_medley_stage5",
+      "y": 180
+    },
+    "facing=west,servings=5": {
+      "model": "dumplings_delight:block/dumpling_medley_stage5",
+      "y": 270
+    },
+    "facing=east,servings=5": {
+      "model": "dumplings_delight:block/dumpling_medley_stage5",
+      "y": 90
+    },
+    "facing=north,servings=6": {
+      "model": "dumplings_delight:block/dumpling_medley_stage6"
+    },
+    "facing=south,servings=6": {
+      "model": "dumplings_delight:block/dumpling_medley_stage6",
+      "y": 180
+    },
+    "facing=west,servings=6": {
+      "model": "dumplings_delight:block/dumpling_medley_stage6",
+      "y": 270
+    },
+    "facing=east,servings=6": {
+      "model": "dumplings_delight:block/dumpling_medley_stage6",
+      "y": 90
+    },
+    "facing=north,servings=7": {
+      "model": "dumplings_delight:block/dumpling_medley_stage7"
+    },
+    "facing=south,servings=7": {
+      "model": "dumplings_delight:block/dumpling_medley_stage7",
+      "y": 180
+    },
+    "facing=west,servings=7": {
+      "model": "dumplings_delight:block/dumpling_medley_stage7",
+      "y": 270
+    },
+    "facing=east,servings=7": {
+      "model": "dumplings_delight:block/dumpling_medley_stage7",
+      "y": 90
+    }
+  }
+}
